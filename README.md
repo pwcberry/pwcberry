@@ -1,6 +1,6 @@
 ## G'day! 👋
 
-A software engineering leader with over 20 years of industry experience. Always curious.
+I'm a software engineering leader with over 20 years of industry experience. I'm curious about progress in software and computing and I like to practice what I learn - some of these efforts are kept here in GitHub.
 
 ### Interests
 
