@@ -2,6 +2,10 @@
 
 I'm a software engineering leader with over 20 years of industry experience. I'm curious about progress in software and computing and I like to practice what I learn - some of these efforts are kept here in GitHub.
 
+### What I've recently read
+
+* [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
+
 ### Interests
 
 * Web technologies
