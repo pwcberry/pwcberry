@@ -5,6 +5,7 @@ I'm a software engineering leader with over 20 years of industry experience. I'm
 ### What I've recently read
 
 * [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
+* [Beware of the Google AI salesman and its cronies](https://housefresh.com/beware-of-the-google-ai-salesman/)
 
 ### Interests
 
@@ -14,8 +15,11 @@ I'm a software engineering leader with over 20 years of industry experience. I'm
 * Languages: JavaScript/TypeScript, Python, C#, Java, Kotlin
 * Computer science: algorithms, programming languages, computer graphics, and data
 * Data visualization
+* Simulation and modelling
 * User experience
 * Artificial intelligence
+* Astrophysics: Exoplanets
+* Cosmology
 
 <!--
 **pwcberry/pwcberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
