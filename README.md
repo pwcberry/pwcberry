@@ -17,6 +17,7 @@ I'm a software engineering leader with over 20 years of industry experience. I'm
 * Data visualization
 * Simulation and modelling
 * User experience
+* Music theory
 * Artificial intelligence
 * Astrophysics: Exoplanets
 * Cosmology
