@@ -4,6 +4,7 @@ I'm a software engineering leader with over 20 years of industry experience. I'm
 
 ### What I've recently read
 
+* [Getting in the room](https://lethain.com/getting-in-the-room/)
 * [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 * [Beware of the Google AI salesman and its cronies](https://housefresh.com/beware-of-the-google-ai-salesman/)
 
