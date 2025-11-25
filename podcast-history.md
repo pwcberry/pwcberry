@@ -2,6 +2,7 @@
 
 | Podcast name | Episode title | Date listened | 
 | --- | --- | --- |
+| ACM ByteCast | [Episode 77: Anusha Nerella](https://learning.acm.org/bytecast/ep77-anusha-nerella) | November 2025 |
 | CSS Podcast | [Episode 92: CSS `if()` and custom functions](https://thecsspodcast.libsyn.com/92-css-if-and-custom-functions) | October 2025 |
 | The Pragmatic Engineer Podcast | [50 Years of Microsoft and Developer Tools with Scott Guthrie](https://newsletter.pragmaticengineer.com/p/50-years-of-microsoft) | October 2025 |
 | Software Engineering Radio | [SE Radio 629: Emily Bache on Katas and the Importance of Practice](https://se-radio.net/2024/08/se-radio-629-emily-bache-on-katas-and-the-importance-of-practice/) | October 2025 |
