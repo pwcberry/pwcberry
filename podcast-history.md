@@ -2,6 +2,8 @@
 
 | Podcast name | Episode title | Date listened | 
 | --- | --- | --- |
+| TechLead.Journal() | [Episode 241: Your Code as a Crime Scene: The Psychology Behind Software Quality - Adam Tornhill](https://techleadjournal.dev/episodes/241/) | December 2025 |
+| Hanselminutes | [Episode 1024: C++ is Still Here, Still Powerful with Gabriel Dos Reis](https://hanselminutes.com/1024/c-is-still-here-still-powerful-with-gabriel-dos-reis) | November 2025 |
 | ACM ByteCast | [Episode 77: Anusha Nerella](https://learning.acm.org/bytecast/ep77-anusha-nerella) | November 2025 |
 | CSS Podcast | [Episode 92: CSS `if()` and custom functions](https://thecsspodcast.libsyn.com/92-css-if-and-custom-functions) | October 2025 |
 | The Pragmatic Engineer Podcast | [50 Years of Microsoft and Developer Tools with Scott Guthrie](https://newsletter.pragmaticengineer.com/p/50-years-of-microsoft) | October 2025 |

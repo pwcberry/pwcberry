@@ -2,6 +2,10 @@
 
 This page shows articles related to software engineering and computing technology that I've read.
 
+## October 2025
+
+* [Stack Collapse: Developer Experience, AI, and the Collapse of the Front-end Stack](https://webdirections.org/blog/stack-collapse-developer-experience-ai-and-the-collapse-of-the-front-end-stack/)
+
 ## August 2025
 
 * [The Hovercar Framework for Deliberate Product Design](https://lea.verou.me/blog/2025/hovercar/)
