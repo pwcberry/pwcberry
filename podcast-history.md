@@ -2,6 +2,7 @@
 
 | Podcast name | Episode title | Date listened | 
 | --- | --- | --- |
+| Change Signal | [Why You Build Belonging Before Belief: Hahrie Han](https://thechangesignal.com/podcast/46-hahrie-han) | | January 2026 |
 | ACM ByteCast | [Episode 79: Dawn Song, Expert on AI Safety and Security](https://learning.acm.org/bytecast/ep79-dawn-song) | December 2025 |
 | TechLead.Journal() | [Episode 241: Your Code as a Crime Scene: The Psychology Behind Software Quality - Adam Tornhill](https://techleadjournal.dev/episodes/241/) | December 2025 |
 | Hanselminutes | [Episode 1024: C++ is Still Here, Still Powerful with Gabriel Dos Reis](https://hanselminutes.com/1024/c-is-still-here-still-powerful-with-gabriel-dos-reis) | November 2025 |
