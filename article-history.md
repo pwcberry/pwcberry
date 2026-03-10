@@ -2,6 +2,17 @@
 
 This page shows articles related to software engineering and computing technology that I've read.
 
+## January - February 2026
+
+* [The Innovation Engine: Government-Funded Academic Research](https://cacm.acm.org/federal-funding-of-academic-research/the-innovation-engine-government-funded-academic-research/)
+* [Web dependencies are broken. Can we fix them?](https://lea.verou.me/blog/2026/web-deps/)
+* [MDN: `<script type="importmap">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/importmap)
+* [Making Context-Aware Components: How CSS inherit() Could Simplify Design Systems](https://www.alwaystwisted.com/articles/making-context-aware-components)
+* [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
+* [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
+* [Why Federated Design Systems Keep Failing](https://www.shaunbent.co.uk/blog/why-federated-design-systems-keep-failing/)
+* [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/)
+
 ## December 2025
 
 * [Why Tracebit is written in C#](https://tracebit.com/blog/why-tracebit-is-written-in-c-sharp)
