@@ -1,6 +1,25 @@
 # Articles I've read
 
-This page shows articles related to software engineering and computing technology that I've read.
+This page shows articles related to software engineering and computing technology that I've read and worth sharing.
+
+## February 2026
+
+* [Against Imaginary Friends: Why Digital Companions Are No Solution to Social Isolation](https://cacm.acm.org/research/against-imaginary-friends-why-digital-companions-are-no-solution-to-social-isolation/)
+* [Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS](https://www.smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/)
+* [Smashing Animations Part 7: Recreating Toon Text With CSS And SVG](https://www.smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/)
+* [The customizable select - Part one: history, trickery, and styling the select with CSS](https://utilitybend.com/blog/the-customizable-select-part-one-history-trickery-and-styling-the-select-with-css)
+
+## January 2026
+
+* [The Innovation Engine: Government-Funded Academic Research](https://cacm.acm.org/federal-funding-of-academic-research/the-innovation-engine-government-funded-academic-research/)
+* [Web dependencies are broken. Can we fix them?](https://lea.verou.me/blog/2026/web-deps/)
+* [Making Context-Aware Components: How CSS inherit() Could Simplify Design Systems](https://www.alwaystwisted.com/articles/making-context-aware-components)
+* [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
+* [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
+* [Why Federated Design Systems Keep Failing](https://www.shaunbent.co.uk/blog/why-federated-design-systems-keep-failing/)
+* [Stop using MySQL in 2026, it is not true open source](https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/)
+* [A Layered Approach to Speculation Rules](https://csswizardry.com/2024/12/a-layered-approach-to-speculation-rules/)
+* [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 
 ## January - February 2026
 

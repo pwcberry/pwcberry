@@ -19,11 +19,11 @@ Check out [the podcasts I've listened to](./podcast-history.md).
 * Software engineering
 * Languages: C#, JavaScript/TypeScript, Python, Java, Kotlin
 * Computer science: algorithms, programming languages, computer graphics, and data
-* Data visualization
-* User experience
-* Simulation and modelling
 * Music
 * Artificial intelligence
+* User experience
+* Simulation and modelling
+* Data visualization
 * Astrophysics
 * Cosmology
 
