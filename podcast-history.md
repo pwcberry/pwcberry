@@ -15,5 +15,3 @@
 | CoRecursive | [Leaving Stripe](https://corecursive.com/leaving-stripe-with-jon-de-le-motte/) | October 2025 |
 | ACM ByteCast | [Episode 73: Maja Matarić](https://learning.acm.org/bytecast/ep73-maja-mataric) | September 2025 |
 | ACM ByteCast | [Episode 74: Torsten Hoefler](https://learning.acm.org/bytecast/ep74-torsten-hoefler) | September 2025 |
-
-[Back](./README.md)
