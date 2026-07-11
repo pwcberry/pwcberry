@@ -2,14 +2,24 @@
 
 This page shows articles related to software engineering and computing technology that I've read and worth sharing.
 
-## February 2026
+## July 2026
+
+* [An animated radial gradient mask over text in CSS](https://cassidoo.co/post/radial-mask-text-css/)
+* [Putting users first: What does “reliability” mean today?](https://embrace.io/blog/reliability-user-experience/)
+* [The Goldilocks customizable select height](https://jakearchibald.com/2026/goldilocks-select-height/)
+* [What Is CSS Containment and How Can I Use It?](https://csswizardry.com/2026/04/what-is-css-containment-and-how-can-i-use-it/)
+* [Performance-Optimized Video Embeds with Zero JavaScript](https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript/)
+* [Web server implementations in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/?view=aspnetcore-10.0&tabs=windows)
+
+
+## May 2026
 
 * [Against Imaginary Friends: Why Digital Companions Are No Solution to Social Isolation](https://cacm.acm.org/research/against-imaginary-friends-why-digital-companions-are-no-solution-to-social-isolation/)
 * [Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS](https://www.smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/)
 * [Smashing Animations Part 7: Recreating Toon Text With CSS And SVG](https://www.smashingmagazine.com/2025/12/smashing-animations-part-7-recreating-toon-text-css-svg/)
 * [The customizable select - Part one: history, trickery, and styling the select with CSS](https://utilitybend.com/blog/the-customizable-select-part-one-history-trickery-and-styling-the-select-with-css)
 
-## January 2026
+## February 2026
 
 * [The Innovation Engine: Government-Funded Academic Research](https://cacm.acm.org/federal-funding-of-academic-research/the-innovation-engine-government-funded-academic-research/)
 * [Web dependencies are broken. Can we fix them?](https://lea.verou.me/blog/2026/web-deps/)
@@ -21,7 +31,7 @@ This page shows articles related to software engineering and computing technolog
 * [A Layered Approach to Speculation Rules](https://csswizardry.com/2024/12/a-layered-approach-to-speculation-rules/)
 * [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 
-## January - February 2026
+## January 2026
 
 * [The Innovation Engine: Government-Funded Academic Research](https://cacm.acm.org/federal-funding-of-academic-research/the-innovation-engine-government-funded-academic-research/)
 * [Web dependencies are broken. Can we fix them?](https://lea.verou.me/blog/2026/web-deps/)

@@ -10,6 +10,8 @@ I'm a software engineering leader with over 20 years of industry experience. I'm
 
 Check out [the articles I've read](./article-history.md).
 
+Check out [the conference videos I've watched](./video-history.md).
+
 Check out [the podcasts I've listened to](./podcast-history.md).
 
 ## Interests
