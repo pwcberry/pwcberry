@@ -2,10 +2,6 @@
 
 I'm a software engineering leader with over 20 years of industry experience. I'm curious about software and computing, and I like to practice what I learn - some of these efforts are kept here in GitHub.
 
-<!--
-## Articles of note I've recently read
--->
-
 ### History
 
 Check out [the articles I've read](./article-history.md).
