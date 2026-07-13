@@ -10,7 +10,9 @@ This page shows articles related to software engineering and computing technolog
 * [What Is CSS Containment and How Can I Use It?](https://csswizardry.com/2026/04/what-is-css-containment-and-how-can-i-use-it/)
 * [Performance-Optimized Video Embeds with Zero JavaScript](https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript/)
 * [Web server implementations in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/?view=aspnetcore-10.0&tabs=windows)
-
+* [The Fasting Developer: Memory Discipline and GC Awareness in .NET](https://www.binaryintellect.net/articles/f3c06695-d347-4ede-89a8-6ff39c3e4049.aspx)
+* [The N+1 Query Problem in EF Core: Detection, Diagnosis, and Permanent Fixes](https://www.woodruff.dev/the-n1-query-problem-in-ef-core/)
+* [Getting Inherited Controller Routes to work in ASP.NET Core](https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core?)
 
 ## May 2026
 
