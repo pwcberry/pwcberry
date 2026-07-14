@@ -13,6 +13,7 @@ This page shows articles related to software engineering and computing technolog
 * [The Fasting Developer: Memory Discipline and GC Awareness in .NET](https://www.binaryintellect.net/articles/f3c06695-d347-4ede-89a8-6ff39c3e4049.aspx)
 * [The N+1 Query Problem in EF Core: Detection, Diagnosis, and Permanent Fixes](https://www.woodruff.dev/the-n1-query-problem-in-ef-core/)
 * [Getting Inherited Controller Routes to work in ASP.NET Core](https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core?)
+* [In defense of polyfills](https://lea.verou.me/blog/2026/polyfills/)
 
 ## May 2026
 
