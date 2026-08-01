@@ -4,6 +4,7 @@ This page shows articles related to software engineering and computing technolog
 
 ## July 2026
 
+* [Tailwind and the Femininity of CSS](https://thoughtbot.com/blog/tailwind-and-the-femininity-of-css)
 * [An animated radial gradient mask over text in CSS](https://cassidoo.co/post/radial-mask-text-css/)
 * [Putting users first: What does “reliability” mean today?](https://embrace.io/blog/reliability-user-experience/)
 * [The Goldilocks customizable select height](https://jakearchibald.com/2026/goldilocks-select-height/)
