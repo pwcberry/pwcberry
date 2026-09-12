@@ -70,3 +70,13 @@ This page shows articles related to software engineering and computing technolog
 * [Getting in the room](https://lethain.com/getting-in-the-room/)
 * [The many, many, many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 * [Beware of the Google AI salesman and its cronies](https://housefresh.com/beware-of-the-google-ai-salesman/)
+
+## Much earlier
+
+Articles that have remained with me for historical purposes and are still present on the web.
+
+* [The Future of JavaScript MVC Frameworks (2013)](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/)
+* [The viability of JavaScript frameworks on mobile (2013)](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile)
+* [10 things web developers must know to become truly amazing (2015)](https://www.creativebloq.com/education/10-things-web-developers-must-know-become-truly-amazing-7122804)
+* [CSS Guidelines (2016)](https://github.com/chris-pearce/css-guidelines/blob/master/README.md)
+
