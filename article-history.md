@@ -16,6 +16,13 @@ This page shows articles related to software engineering and computing technolog
 * [Getting Inherited Controller Routes to work in ASP.NET Core](https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core?)
 * [In defense of polyfills](https://lea.verou.me/blog/2026/polyfills/)
 
+## June 2026
+
+* [The History of Pets vs Cattle and How to Use the Analogy Properly](https://cloudscaling.com/blog/cloud-computing/the-history-of-pets-vs-cattle)
+* [Putting users first: What does “reliability” mean today?](https://embrace.io/blog/reliability-user-experience/)
+* [Anthropic: When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement)
+* [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/)
+
 ## May 2026
 
 * [Against Imaginary Friends: Why Digital Companions Are No Solution to Social Isolation](https://cacm.acm.org/research/against-imaginary-friends-why-digital-companions-are-no-solution-to-social-isolation/)
